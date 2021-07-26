@@ -1,18 +1,22 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray VLESS on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "v2core",
+    "description": "Deploy v2core on Heroku.",
+    "keywords": ["v2core"],
     "env": {
-        "ID": {
+        "AID": {
+            "description": "AlterID",
+            "value": "0"
+        },
+        "UID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "ad806587-2d26-5636-98b6-ab85cc856fd2"
         },
         "WSPATH": {
-            "description": "WebSocket Path",
-            "value": "/"
+            "description": "WS Path",
+            "value": "/xptohro"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku/tree/vless",
+    "website": "https://github.com/signigelchan/v2ray-heroku",
+    "repository": "https://github.com/signigelchan/v2ray-heroku/tree/v2core",
     "stack": "container"
 }
