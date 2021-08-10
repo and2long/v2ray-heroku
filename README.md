@@ -4,7 +4,7 @@
 
 部署完成后，每次启动应用将始终保持最新版本。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/signigelchan/v2ray-heroku/tree/v2core)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/and2long/v2ray-heroku/tree/v2core)
 
 ## 部署
 
